@@ -1,10 +1,10 @@
-> ## Google Earth Engine (GEE) tutorial - NRES 512
+## Google Earth Engine (GEE) tutorial - NRES 512
 #### Created by Sarah Castle & Asya Rahlin
 #### November 2023
 #### 
-> #### 
+#### 
 
-
+<br>
 This tutorial will introduce the following:
 
 1. How to [make a Google Earth Engine account](https://aarahlin.github.io/1)
