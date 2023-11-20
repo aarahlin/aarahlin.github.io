@@ -1,7 +1,5 @@
 ## Google Earth Engine (GEE) tutorial - NRES 512 Fall 2023
-#### Created by Asya Rahlin & Sarah Castle
-#### 
-#### 
+#### Created by Asya Rahlin & Sarah Castle 
 
 <br>
 This tutorial will introduce the following:
