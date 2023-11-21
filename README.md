@@ -2,7 +2,9 @@
 #### Created by Asya Rahlin & Sarah Castle 
 
 <br>
-Please make a Google Earth Engine account if you want to follow along and run your own code in class. This tutorial will introduce the following:
+Please make a Google Earth Engine account if you want to follow along and run your own code in class. 
+<br>
+This tutorial will introduce the following:
 
 0. How to [make a Google Earth Engine account](https://aarahlin.github.io/0). ***This process can take several days, sometimes a week. You will want to create an account ASAP.***
 1. [Lesson 1](https://aarahlin.github.io/1). — Understanding image and feature collections
