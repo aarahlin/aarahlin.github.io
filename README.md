@@ -17,7 +17,9 @@ Link to lessons 1 & 2: [https://code.earthengine.google.com/0dd60e6749c0d8e7b380
 
 <br>  
 3. Lesson 3. — Supervised and unsupervised classification
+<br>
 4. Lesson 4. — Enter your own lat/long points and extract data from GEE layer, export as a raster
+<br>
 
 For lessons 1 and 2, you will need to download the following:
 [IL_BNDY_County data](https://github.com/aarahlin/aarahlin.github.io/tree/main/IL_BNDY_County) 
