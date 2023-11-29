@@ -16,6 +16,7 @@ This tutorial will introduce the following:
 
 For lessons 1 and 2, you will need to download the following:
 [IL_BNDY_County data](https://github.com/aarahlin/aarahlin.github.io/tree/main/IL_BNDY_County)
+<br>
 [gnatcatcher_data.csv](https://github.com/aarahlin/aarahlin.github.io/blob/main/gnatcatcher_data.csv)
 
 
