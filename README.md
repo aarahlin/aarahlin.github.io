@@ -14,6 +14,11 @@ This tutorial will introduce the following:
 3. [Lesson 3](https://aarahlin.github.io/3). — Supervised and unsupervised classification
 4. [Lesson 4](https://aarahlin.github.io/4). — Enter your own lat/long points and extract data from GEE layer, export as a raster
 
+For lessons 1 and 2, you will need to download the following:
+[IL_BNDY_County data](weblink)
+[gnatcatcher_data.csv](weblink)
+
+
 
 
 
