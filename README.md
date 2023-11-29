@@ -12,6 +12,7 @@ This tutorial will introduce the following:
 1. Lesson 1. — Basic javascript; understanding image and feature collections
 2. Lesson 2. — Finding and loading GEE data, clipping, performing calculations like NDVI
 <br>
+<br?
 Link to lessons 1 & 2: [https://code.earthengine.google.com/0dd60e6749c0d8e7b380da59bd544dc0](https://code.earthengine.google.com/0dd60e6749c0d8e7b380da59bd544dc0)
 
 <br>  
