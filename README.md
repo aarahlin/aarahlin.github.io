@@ -12,15 +12,16 @@ This tutorial will introduce the following:
 1. Lesson 1. — Basic javascript; understanding image and feature collections
 2. Lesson 2. — Finding and loading GEE data, clipping, performing calculations like NDVI
 <br>
+<br>
 Link to lessons 1 & 2: [https://code.earthengine.google.com/0dd60e6749c0d8e7b380da59bd544dc0](https://code.earthengine.google.com/0dd60e6749c0d8e7b380da59bd544dc0)
-
+<br>
 <br>
 For lessons 1 and 2, you will need to download the following:
 <br>
 [IL_BNDY_County data](https://github.com/aarahlin/aarahlin.github.io/tree/main/IL_BNDY_County) 
 <br>
 [gnatcatcher_data.csv](https://github.com/aarahlin/aarahlin.github.io/blob/main/gnatcatcher_data.csv)
-
+<br>
 The easiest way is to just download the entire aarahlin.github.io repository.
 <br>
 Go here: [https://github.com/aarahlin/aarahlin.github.io](https://github.com/aarahlin/aarahlin.github.io), click Code, and download zip.
