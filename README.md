@@ -27,7 +27,7 @@ Go here: [https://github.com/aarahlin/aarahlin.github.io](https://github.com/aar
 
 Link to lesson 4: [https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb](https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb) <details style="cursor: pointer;">
   <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px;">🔮</summary>
-As you peer into the cloudy depths of the crystal ball, a message emerges: 'Signs point to yes, but only if you commit to the magical journey of debugging.'
+As you peer into the cloudy depths of the crystal ball, a message emerges: 'Signs point to success, but only if you commit to the magical journey of debugging.'
  </details>
 
 
