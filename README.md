@@ -28,7 +28,7 @@ Link to lesson 4: [https://code.earthengine.google.com/2e8167b7a222b17b6f366483c
 
 
 <details style="cursor: pointer;">
-  <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px;">🥠</summary>
+  <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px;">🥠 (click to reveal)</summary>
   Your code is like a well-crafted function - efficient, elegant, and always returns success.
  </details>
 
