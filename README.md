@@ -12,7 +12,7 @@ This tutorial will introduce the following:
 0. How to [make a Google Earth Engine account](https://aarahlin.github.io/0). ***This process can take several days, sometimes a week. You will want to create an account ASAP.***
 1. Lesson 1. — Basic javascript commands, understanding image and feature collections
 2. Lesson 2. — Finding and loading GEE data, importing your own data, and mapping it
-3. Lesson 3. — Clipping, reducers, performing calculations like NDVI, extracting GEE data from imported points, exporting as a raster
+3. Lesson 3. — Clipping, reducers, performing calculations like NDVI, extracting GEE data from imported points, exporting the appended data to your google drive
 
 Link to lessons 1-3: [https://code.earthengine.google.com/1942b0d0c71043f9cfc54bb9b3460f2c](https://code.earthengine.google.com/1942b0d0c71043f9cfc54bb9b3460f2c)
 
