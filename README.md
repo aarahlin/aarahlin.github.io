@@ -2,7 +2,10 @@
 #### Created by Asya Rahlin & Sarah Castle 
 
 <br>
-Please make a Google Earth Engine account if you want to follow along and run your own code in class.  
+Please make a Google Earth Engine account if you want to follow along and run your own code in class.  <details style="cursor: pointer;">
+  <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px; -webkit-user-select: none;">🥠</summary>
+  Your code is like a well-crafted function - efficient, elegant, and always returns success.
+</details>
 <br>
 
 This tutorial will introduce the following: 
@@ -18,20 +21,16 @@ Link to lessons 1-3: [https://code.earthengine.google.com/b720fb3e2f1fab4f34372f
 For lessons 1-3, you will need to download the following:
 - [IL_BNDY_County data](https://github.com/aarahlin/aarahlin.github.io/tree/main/IL_BNDY_County)
 - [gnatcatcher_data.csv](https://github.com/aarahlin/aarahlin.github.io/blob/main/gnatcatcher_data.csv)
-<details style="cursor: pointer;">
-  <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px;">🔮</summary>
- In the binary constellations, a message emerges: 'Signs point to yes, but only if you commit to the magical journey of debugging.'
- </details>
+
 The easiest way is to just download the entire aarahlin.github.io repository.
 Go here: [https://github.com/aarahlin/aarahlin.github.io](https://github.com/aarahlin/aarahlin.github.io), click Code, and download zip.
 
 4. Lesson 4. — Supervised and unsupervised classification
 
-Link to lesson 4: [https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb](https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb)
-<details style="cursor: pointer;">
-  <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px; -webkit-user-select: none;">🥠</summary>
-  Your code is like a well-crafted function - efficient, elegant, and always returns success.
-</details>
+Link to lesson 4: [https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb](https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb) <details style="cursor: pointer;">
+  <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px;">🔮</summary>
+ In the binary constellations, a message emerges: 'Signs point to yes, but only if you commit to the magical journey of debugging.'
+ </details>
 
 
 
