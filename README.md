@@ -14,7 +14,7 @@ This tutorial will introduce the following:
 2. Lesson 2. — Finding and loading GEE data, importing your own data, and mapping it
 3. Lesson 3. — Clipping, reducers, performing calculations like NDVI, extracting GEE data from imported points, exporting as a raster
 
-Link to lessons 1-3: [https://code.earthengine.google.com/0344ee38f1279b529b61425e1fbf5a3c](https://code.earthengine.google.com/0344ee38f1279b529b61425e1fbf5a3c)
+Link to lessons 1-3: [https://code.earthengine.google.com/1942b0d0c71043f9cfc54bb9b3460f2c](https://code.earthengine.google.com/1942b0d0c71043f9cfc54bb9b3460f2c)
 
 For lessons 1-3, you will need to download the following:
 - [IL_BNDY_County data](https://github.com/aarahlin/aarahlin.github.io/tree/main/IL_BNDY_County)
