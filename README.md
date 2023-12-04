@@ -25,7 +25,11 @@ Go here: [https://github.com/aarahlin/aarahlin.github.io](https://github.com/aar
 
 4. Lesson 4. — Supervised and unsupervised classification
 
-Link to lesson 4: [https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb](https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb) <details style="cursor: pointer;">
+Link to lesson 4: [https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb](https://code.earthengine.google.com/2e8167b7a222b17b6f366483c78d4dfb) 
+
+If you want an entire course on Google Earth Engine, you can find one here: [https://courses.spatialthoughts.com/end-to-end-gee.html](https://courses.spatialthoughts.com/end-to-end-gee.html)
+
+<details style="cursor: pointer;">
   <summary style="outline: none; user-select: none; list-style-type: none; margin-bottom: -1px;">🔮</summary>
 As you peer into the cloudy depths of the crystal ball, a message emerges: 'Signs point to success, but only if you commit to the magical journey of debugging.'
  </details>
