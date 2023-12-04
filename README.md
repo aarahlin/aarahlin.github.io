@@ -21,7 +21,7 @@ For lessons 1-3, you will need to download the following:
 - [gnatcatcher_data.csv](https://github.com/aarahlin/aarahlin.github.io/blob/main/gnatcatcher_data.csv)
 
 The easiest way is to just download the entire aarahlin.github.io repository.
-Go here: [https://github.com/aarahlin/aarahlin.github.io](https://github.com/aarahlin/aarahlin.github.io), click Code, and download zip.
+Go here: [https://github.com/aarahlin/aarahlin.github.io](https://github.com/aarahlin/aarahlin.github.io), click Code, and download zip. Be sure to unzip the folders and make sure the IL Boundary data is in a single folder.
 
 4. Lesson 4. — Supervised and unsupervised classification
 
