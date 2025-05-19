@@ -1,5 +1,4 @@
-## 🌍 Google Earth Engine (GEE) tutorial - Created by Asya Rahlin and Sarah Castle 🌏
-#### Written in Fall 2023; updated in Fall 2024 and Spring 2025
+## 🌍 Google Earth Engine (GEE) tutorial - Asya Rahlin 🌏
 
 <br>
 Please make a Google Earth Engine account if you want to follow along and run your own code in class.  
